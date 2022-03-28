@@ -40,7 +40,6 @@ GIF created with [Sharex](https://getsharex.com/).
 
 ## Notes
 
-I messed up when I moved my methods to a fragment because I pasted them inside of some brackets and didn't notice until later. I used version control to revert my project to before the mistake.
 
 ## Open-source libraries used
 
